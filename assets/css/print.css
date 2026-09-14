@@ -1,0 +1,5 @@
+/* Screen chrome hidden when the main window itself is printed */
+.topnav,.brandbar,.btnbar,.filterbar,.footer,.page-tools,.modal-wrap,.toast{display:none !important}
+body{background:#fff}
+.workspace{padding:0}
+.panel{border-color:#999}
